@@ -1,4 +1,4 @@
 myhobbies
-swimg
+swim
 play video games
-read
+sleep
